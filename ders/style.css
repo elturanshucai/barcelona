@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.div1{
+    margin: 30px auto;
+    border: 2px solid green;
+    height: 300px;
+    width: 700px;
+}
+.div2{
+    margin: 20px auto;
+    border: 2px solid red;
+    height: 300px;
+    width: 700px;
+}
+.barca{
+    width: 350px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(15, 15, 236);
+    margin: 30px auto;
+    display: none;
+}
+.fcb{
+    width: 200px;
+    height: 200px;
+    margin: 30px 220px;
+}
